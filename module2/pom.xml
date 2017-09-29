@@ -19,9 +19,15 @@
                 <excludes>
                     <exclude>target</exclude>
                     <exclude>pom.xml</exclude>
+                    <exclude>*.iml</exclude>
                 </excludes>
             </resource>
         </resources>
     </build>
+
+    <scm>
+        <developerConnection>scm:git:git@git.internal.gracenote.com:Video/multi-module.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
 </project>
