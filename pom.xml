@@ -55,4 +55,9 @@
         </snapshotRepository>
     </distributionManagement>
 
+    <scm>
+        <developerConnection>scm:https://github.com/bgulati/multi-module.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
 </project>
