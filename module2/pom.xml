@@ -26,7 +26,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@git.internal.gracenote.com:Video/multi-module.git</developerConnection>
+        <developerConnection>scm:https://github.com/bgulati/multi-module.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
