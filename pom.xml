@@ -56,7 +56,7 @@
     </distributionManagement>
 
     <scm>
-        <developerConnection>scm:https://github.com/bgulati/multi-module.git</developerConnection>
+        <connection>scm:git:git://github.com/bgulati/multi-module.git</connection>
         <tag>HEAD</tag>
     </scm>
 
