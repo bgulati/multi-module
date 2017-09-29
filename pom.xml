@@ -5,7 +5,7 @@
     <groupId>test</groupId>
     <artifactId>multi-module</artifactId>
     <packaging>pom</packaging>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <modules>
         <module>module1</module>
         <module>module2</module>
@@ -55,7 +55,7 @@
 
     <scm>
         <connection>scm:git:git://github.com/bgulati/multi-module.git</connection>
-        <tag>multi-module-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
